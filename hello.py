@@ -5,4 +5,5 @@ print("next time will not come soon")
 print(x)
 print("my name is billdad")
 print(x*x)
+print(x+2)
 
